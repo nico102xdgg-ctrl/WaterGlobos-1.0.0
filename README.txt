@@ -1,1 +1,1 @@
-Los Globos - sistema de preguntas (Forge 1.20.1)
+Los Globos - SCG2 (Forge 1.20.1)
